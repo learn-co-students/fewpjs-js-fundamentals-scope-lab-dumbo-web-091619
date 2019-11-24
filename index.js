@@ -1,6 +1,5 @@
-let animal = "dog"
-// let animal = ""
-// let yourAnimal = "cat"
+let animal = ""
+
 
 function myAnimal(animal) {
   animal = "dog"
